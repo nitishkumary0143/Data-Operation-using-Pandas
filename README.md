@@ -1,6 +1,7 @@
 # Data-Operation-using-Pandas
 Data analysis project using Pandas for data cleaning, filtering, sorting, and basic data manipulation.
-Pandas Data Analysis Project
+Pandas Data Analysis Project perform on ipl dataset.
+
 
 This project demonstrates the use of the Pandas library for data analysis and data manipulation. It includes operations such as:
 
